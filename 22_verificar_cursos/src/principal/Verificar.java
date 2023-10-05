@@ -3,6 +3,7 @@ package principal;
 public class Verificar {
 
 	public static void main(String[] args) {
+		//prueba para github
 		String cursos="Ofimática,Java básico,JavaEE,Spring Boot,Angular,Programación avanzada en Java";
 		//¿Cuántos cursos sobre Java hay?
 		String[] nombres=cursos.toLowerCase().split(",");//el orden es importante!! Primero ponemos en minúsculas y luego creamos el array
